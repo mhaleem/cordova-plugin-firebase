@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "992640125427",
+    "firebase_url": "https://mylife-2a573.firebaseio.com",
+    "project_id": "mylife-2a573",
+    "storage_bucket": "mylife-2a573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992640125427:android:8ed4b25852dacf4f",
+        "android_client_info": {
+          "package_name": "com.magna.mylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992640125427-cldusaq7brui6gv429v68hp7q58n2qrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magna.mylife",
+            "certificate_hash": "34EB09F3E1123CBA89ED9BBDEB176EB3AB09C09A"
+          }
+        },
+        {
+          "client_id": "992640125427-n3kdfehr87u3p7p9c5l303u3p5nfql1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQ-hpCYynrQmLAOgt-kDBMpyJhEwitlM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992640125427-gfn4ubqavc9bb0fr96i0ror4hdrfagn9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magna.mylife",
+                "app_store_id": "1177410012"
+              }
+            },
+            {
+              "client_id": "992640125427-n3kdfehr87u3p7p9c5l303u3p5nfql1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
