@@ -10,8 +10,9 @@
 	<string>992640125427-gfn4ubqavc9bb0fr96i0ror4hdrfagn9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.992640125427-gfn4ubqavc9bb0fr96i0ror4hdrfagn9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>992640125427-b36rodcabehf748tbu84tvtnh4oljiqv.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-Add a comment to this line
 	<string>AIzaSyAaqAkGV5DwHVaSDtxEagrTaCq1nzTvJH0</string>
 	<key>GCM_SENDER_ID</key>
 	<string>992640125427</string>
